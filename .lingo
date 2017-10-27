@@ -1,6 +1,5 @@
 lexicons:
   - codelingo/python36
-  - codelingo/go
 
 tenets:
 - name: py-func
